@@ -1,1 +1,1 @@
-# SE_Assignment_M4
+This is Assignment No 4 consisting c++ assignment. It has programs of Object Oriented Programming. It has programs which includes Class,Object,Inheritance,Constructor,Polymorphism and templates,Inline Functions and Friend Function.
